@@ -1,0 +1,8 @@
+body {
+    background-color: black; 
+    color: white;
+}
+.col2 {
+    display: grid; 
+    text-align: center; 
+}
